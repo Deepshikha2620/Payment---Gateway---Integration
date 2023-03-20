@@ -1,0 +1,16 @@
+body{
+    background-image: url(bg1.jpg);
+    width: 1500px;
+    height: 700px;
+    background-size: 1400px;
+}
+.left{
+    display: inline-block;
+    position: absolute;
+    left: 20px;
+    top: 5px;
+}
+.left img{
+    width: 200px;
+    
+}

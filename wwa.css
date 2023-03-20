@@ -1,0 +1,27 @@
+body{
+    background-image: url(wwa.jpg);
+    width: 1500px;
+    height: 700px;
+    background-size: 1400px;
+}
+.left{
+    display: inline-block;
+    position: absolute;
+    left: 20px;
+    top: 0px;
+}
+.left img{
+    width: 100px;
+    
+}
+.box{
+    border: 2px solid rgb(98, 156, 203);
+    display: inline-block;
+    width: 300px;
+    height: 350px;
+    margin: 30px;
+    padding: 20px;
+    position: relative;
+    top: 200px;
+    left: 200px;
+}

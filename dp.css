@@ -1,0 +1,41 @@
+body{
+    background-image: url(bg1.jpg);
+    width: 1200px;
+    height: 700px;
+    background-size: 1400px;
+}
+.left{
+    display: inline-block;
+    position: absolute;
+    left: 20px;
+    top: 0px;
+}
+.left img{
+    width: 100px;
+    
+}
+.box{
+    border: 2px solid rgb(98, 156, 203);
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    padding: 5px;
+    position: relative;
+    top: 200px;
+    left: 200px;
+}
+.h1{
+    font-size: small;
+    position: relative;
+    top: 170px;
+    left: 120px;
+    color: black;
+}
+.h2{
+    position: relative;
+    top: 200px;
+    left: 600px;
+    font-size: 30px;
+    color: rgb(61, 119, 214);
+}
